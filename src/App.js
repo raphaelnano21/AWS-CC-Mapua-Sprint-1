@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import TodoList from "C:/Users/rsnan/react-todo/src/TodoList.jsx";
+import TodoList from "C:/Users/rsnan/OneDrive/Documents/GitHub/AWS-CC-Mapua-Sprint-1/src/TodoList.jsx";
 
 function App() {
   return (
